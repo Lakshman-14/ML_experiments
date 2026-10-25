@@ -1,6 +1,6 @@
 {
   "selection_metric": "mean cross-validated F1",
-  "best_cv_f1": 0.641140438451728,
+  "best_cv_f1": 0.636563103641835,
   "best_parameters": {
     "model": "DecisionTreeClassifier",
     "model__max_depth": null,
