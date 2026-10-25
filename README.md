@@ -62,3 +62,6 @@ Streamlit Community Cloud URL: https://mlexperiments-lakshman.streamlit.app/
 
 The deployed public app was opened and visually verified. A screenshot is
 available at [`artifacts/streamlit-app.png`](artifacts/streamlit-app.png).
+The repository layout and successful GitHub Actions execution are also captured
+at [`artifacts/github-repository.png`](artifacts/github-repository.png) and
+[`artifacts/github-actions-success.png`](artifacts/github-actions-success.png).
