@@ -1,0 +1,27 @@
+{
+  "selection_metric": "mean cross-validated F1",
+  "best_cv_f1": 0.641140438451728,
+  "best_parameters": {
+    "model": "DecisionTreeClassifier",
+    "model__max_depth": null,
+    "model__min_samples_leaf": 1
+  },
+  "test_metrics": {
+    "accuracy": 0.8934624697336562,
+    "precision": 0.7204968944099379,
+    "recall": 0.7295597484276729,
+    "f1": 0.725,
+    "roc_auc": 0.831046740780553,
+    "confusion_matrix_labels_0_1": [
+      [
+        622,
+        45
+      ],
+      [
+        43,
+        116
+      ]
+    ]
+  },
+  "test_rows": 826
+}

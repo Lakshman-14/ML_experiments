@@ -1,0 +1,5 @@
+-r requirements.txt
+matplotlib>=3.8,<4
+seaborn>=0.13,<1
+ipykernel>=6.29,<7
+nbconvert>=7.16,<8
