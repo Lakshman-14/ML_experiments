@@ -54,8 +54,11 @@ contents. The generated model commit is excluded from the next workflow run via
    `data/tourism.csv`, and the trained `model/best_model.joblib`.
 2. In Streamlit Community Cloud, create an app from the public repository,
    select the deployed branch and `app.py`, and deploy.
-3. Test the deployed form and record the public URL and a genuine app screenshot
-   in the notebook submission.
+3. Test the deployed form and retain genuine deployment evidence in the
+   notebook submission.
 
 GitHub repository URL: https://github.com/Lakshman-14/ML_experiments  
-Streamlit Community Cloud URL: **Pending deployment.**
+Streamlit Community Cloud URL: https://mlexperiments-lakshman.streamlit.app/
+
+The deployed public app was opened and visually verified. A screenshot is
+available at [`artifacts/streamlit-app.png`](artifacts/streamlit-app.png).
